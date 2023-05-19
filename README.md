@@ -1,7 +1,5 @@
 # bmi
-
-![alt text](/Screenshot/Screenshot_1.png?raw=true)
-![alt text](/Screenshot/Screenshot_2.png?raw=true)
+<img src="/Screenshot/Screenshot_1.png" height="500em" />  <img src="/Screenshot/Screenshot_1.png" height="500em" />
 A new Flutter project.
 
 ## Getting Started
